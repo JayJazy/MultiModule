@@ -1,1 +1,1 @@
-### MultiModule 실습 앱
+### MultiModule Tutorial App
